@@ -8,5 +8,8 @@
     "serve_files" : [
         "compiled/src/**/*.js",
         "compiled/test/**/*.js"
-    ]
+    ],
+    "routes": {
+        "/iframe.html": "res/iframe.html"
+    }
 }
