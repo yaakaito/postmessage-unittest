@@ -11,7 +11,7 @@
 
 Clone this
 ```
-$ git clone https://github.com/yaakaito/typescript-proj.git
+$ git clone https://github.com/yaakaito/postmessage-unittest.git
 ```
 
 Delete `.git` :/
