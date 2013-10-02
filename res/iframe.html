@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+  <head>
+    <title>iFrame</title>
+    <meta charset="utf-8" />
+  </head>
+  <script>
+    window.addEventListener('message', function(evt) {
+      evt.source.postMessage(evt.data, '*');
+    });
+  </script>
+</html>
